@@ -13,7 +13,7 @@
 
 # :speaker: 1st Deliverable
 ### :pushpin: 1st step: Ξεκίνησα με την δημιουργία του χαρακτήρα του παιχνιδιού ο οποίος είναι εμπνευσμένος απο τον τραγουδιστή TheWeeknd.
-![card](IMG_5326.PNG)
+![sticker](charactersticker.png)
 ### :pushpin: 2nd step: Έφτιαξα το background (την πόλη) και το ground το οποίο χρησιμοποιήθηκε και σαν platform στο παιχνιδι γενικά.
 ### :pushpin: 3rd step: Ακολούθησα τις οδηγίες απο το e-class στην σύνταξη του κώδικα για την κίνηση του χαρακτήρα.
 
