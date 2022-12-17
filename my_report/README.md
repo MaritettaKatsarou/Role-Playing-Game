@@ -21,6 +21,8 @@
 ### :pushpin: 3rd step: Ακολούθησα τις οδηγίες απο το e-class στην σύνταξη του κώδικα για την κίνηση του χαρακτήρα.
 
 # :speaker: 2nd Deliverable
+Αρχικά πρόσθεσα το gameplay music (δεν ήταν στα ζητούμενα του deliverable αλλά είναι απαραίτητο για το παιχνίδι μου)
+[How to Add Music To Your Scene](https://www.youtube.com/watch?v=KOf3P5y19Bw)
 
 
 # :speaker: 3rd Deliverable 
