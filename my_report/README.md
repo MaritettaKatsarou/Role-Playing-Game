@@ -24,6 +24,7 @@
 Αρχικά πρόσθεσα το gameplay music (δεν ήταν στα ζητούμενα του deliverable αλλά είναι απαραίτητο για το παιχνίδι μου)
 [How to Add Music To Your Scene](https://www.youtube.com/watch?v=KOf3P5y19Bw)
 
+update note: 18/12 - 18:45 έπαιζε
 
 # :speaker: 3rd Deliverable 
 
