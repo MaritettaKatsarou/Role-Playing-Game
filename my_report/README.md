@@ -21,10 +21,14 @@
 ### :pushpin: 3rd step: Ακολούθησα τις οδηγίες απο το e-class στην σύνταξη του κώδικα για την κίνηση του χαρακτήρα.
 
 # :speaker: 2nd Deliverable
-Αρχικά πρόσθεσα το gameplay music (δεν ήταν στα ζητούμενα του deliverable αλλά είναι απαραίτητο για το παιχνίδι μου)
+### :pushpin: 1st step: Αρχικά πρόσθεσα το gameplay music (δεν ήταν στα ζητούμενα του deliverable αλλά είναι απαραίτητο για το παιχνίδι μου)
 [How to Add Music To Your Scene](https://www.youtube.com/watch?v=KOf3P5y19Bw)
 
 update note: 18/12 - 18:45 έπαιζε
+
+### :pushpin: 2nd step: Στη συνέχεια δημιούργησα το amination του χαρακτήρα και τα extra αντικείμενα. 
+Το Χ που αποτελεί τα collectives του παιχνιδιού, το κουτι που ειναι για να βοηθαει τον χρηστη να φτασει να πιασει τα αντικειμενα και το τι θα "πεταει" ο χαρακτήρας στους εχθρούς
+
 
 # :speaker: 3rd Deliverable 
 
