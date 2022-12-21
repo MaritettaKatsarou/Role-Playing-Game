@@ -37,7 +37,7 @@ Tο κουτι που ειναι για να βοηθαει τον χρηστη 
 
 Βοηθητικό Video: [How to detect collision](https://www.youtube.com/watch?v=HBCjCr-1_xo)
 
-Tι θα "πεταει" ο χαρακτήρας στους εχθρούς: 
+Tι θα "πεταει" ο χαρακτήρας στους εχθρούς (με το αριστερό κλικ του ποντικιού) : 
 
 ![sticker](PlayerWeapon.jpeg)
 
