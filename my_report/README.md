@@ -25,14 +25,21 @@
 [How to Add Music To Your Scene](https://www.youtube.com/watch?v=KOf3P5y19Bw)
 
 ### :pushpin: 2nd step: Στη συνέχεια δημιούργησα το amination του χαρακτήρα και τα extra αντικείμενα. 
-Το Χ που αποτελεί τα collectives του παιχνιδιού:
+Το Χ που αποτελεί τo collectable του παιχνιδιού:
+![sticker](X.PNG)
+
+Στα collectables εβαλα και ενα counter με τη βοήθεια του [2D Collecting Coins Tutorial](https://www.youtube.com/watch?v=DZ-3g31jk90)
 
 Tο κουτι που ειναι για να βοηθαει τον χρηστη να φτασει να πιασει τα αντικειμενα: 
 ![sticker](box.jpeg)
 
+Βοηθητικό Video: [How to detect collision](https://www.youtube.com/watch?v=HBCjCr-1_xo)
+
 Tι θα "πεταει" ο χαρακτήρας στους εχθρούς: 
 
 ![sticker](PlayerWeapon.jpeg)
+
+Βοηθητικό Video: [2D Bullet/Projctiles in Unity](https://www.youtube.com/watch?v=8TqY6p-PRcs)
 
 και τελος τον εχθρο τον ιδιο:
 ![sticker](2.jpeg)
