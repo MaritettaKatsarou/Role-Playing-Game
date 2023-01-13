@@ -62,6 +62,8 @@ Tι θα "πεταει" ο χαρακτήρας στους εχθρούς (με 
 ### :pushpin: 3rd step: Δημιούργησα τα γραφικά για το "Main Menu" scene και τα κουμπία του για τα levels και το options (και στο game over το "try again" button)
 ![sticker](mainMenu4.PNG)
 
+:small_orange_diamond: Buttons code from: [START MENU in Unity](https://www.youtube.com/watch?v=zc8ac_qUXQY&t=572s)
+
 :small_orange_diamond: Τον ήχο για τα κουμπιά τον βρήκα απο το [Click Sound Effects (Copyright Free)](https://www.youtube.com/watch?v=q8ZLBOFQ2g0)
 
 :small_orange_diamond: Τον ήχο για τους προβολείς [εδω](https://www.youtube.com/watch?v=uP_NV2RNJiU) και για να το κανω να παίζει σε συγκεκριμενες στιγμες και οχι μονο στην αρχη του scene πηρα βοηθεια απο το [Sync sound and Animation in Unity using Animation Event](https://www.youtube.com/watch?v=OZwbg9Jam-Q&t=1s)
