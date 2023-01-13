@@ -6,7 +6,8 @@
 ### Digital & Serious Games Personal Repository: [Maritetta's Game](https://maritettakatsarou.github.io/Role-Playing-Game/)
 
 # :headphones: Introduction :microphone:
-### Στοχος: Στο παιχνίδι αυτο ο χρήστης συλλέγει όσα X του ζητάει καθε level και τα κανει deliver στο τελος της πιστας, αποφεύγοντας τα εμπόδια και τους haters
+### Στοχος: Στο παιχνίδι αυτο ο χρήστης συλλέγει όσα X του ζητάει καθε level και τα κανει deliver στο τελος της πιστας, αποφεύγοντας τα εμπόδια και τους haters.  
+### *Note: How to play instructions at the end of the report.*
 
 ~~Η δημιουργία ενός παιχνιδιού χωρίς "κακούς" και "σκοτωμούς". Επέλεξα να ασχοληθώ με τα παιχνίδια που χρησιμοποιούν τη μουσική σαν μέρος του gameplay και οχι απλά σαν gaming soundtrack. Ο χρήστης έχει σαν σκοπό να διαλέξει τη σωστή συνέχεια του τραγουδιού (Lyrics) για να προχωρήσει παρακάτω και να κερδίσει φήμη (Fame). Αν δεν τα καταφέρει, μετά απο 3 λανθασμένες επιλογές στίχων, χάνει και η φήμη του πέφτει (πχ στο 0 αν είναι στη 1η πίστα). Για να ξεκλειδώσει τα επόμενα levels πρέπει να έχει ενα συγκεκριμένο fame rate. Ο μόνος του αντίπαλος είναι οι μουσικές του γνώσεις και ο χρόνος καθώς για την επιλογή των lyrics θα εχει 10secs κάθε φορά.~~ Note: Ο στόχος με βάση τα παραδοτέα του 2ου deliverable άλλαξε.
 
@@ -82,6 +83,15 @@ Tι θα "πεταει" ο χαρακτήρας στους εχθρούς (με 
 ### :pushpin: 5th step: Δημιούργησα τα γραφικά για το finish point και το "Mission Accomplished" scene καθως και το κουμπι που σε γυρναει στο main menu και πρόσθεσα και εκει ενα sound το οποιο ειναι η συνεχεια του τραγουδιου του gameplay αλλα με χειροκροτηματα μαζι.
 
 ![sticker](finishBox.PNG)
+
+# :sparkles: How to play :video_game:
+:tickets: Right and Left Arrow keys are used for movement
+
+:tickets: Space bar makes the character jump
+
+:tickets: Up Arrow key is used for the teleportation
+
+:tickets: Right mouse click makes the character shoot
 
 # :speaker: Conclusions
 
