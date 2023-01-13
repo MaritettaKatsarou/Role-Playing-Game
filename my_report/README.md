@@ -64,7 +64,7 @@ Tι θα "πεταει" ο χαρακτήρας στους εχθρούς (με 
 ![sticker](TryAgain.png)
 
 ### :pushpin: 4th step: Γυρισα πισω στο παιχνιδι και εκανα τα teleport booths
-![sticker](Teleport1.PNG)
+![sticker](teleport1.PNG)
 
 # :speaker: Conclusions
 
