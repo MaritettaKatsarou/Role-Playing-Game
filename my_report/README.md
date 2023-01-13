@@ -54,13 +54,22 @@ Tι θα "πεταει" ο χαρακτήρας στους εχθρούς (με 
 ### :pushpin: 1st step: Εχοντας ήδη κανει τα 2/7 βήματα αυτου του deliverable αρχικα ασχοληθηκα με το να προσθεσω damage zones που δεν το είχα κανει στο 2nd deliverable
 ![sticker](EMPODIOMID.PNG)
 
+επίσης διορθωσα και την περιπολια του εχθρου που δεν ειχε γινει σωστα με την βοηθεια του video [How to Make Unity 2D Enemy Patrol](https://www.youtube.com/watch?v=ljQpwxGb7Jc&t=407s)
+
 ### :pushpin: 2nd step: Δημιούργησα τα γραφικά για το "Game Over" scene και το εκανα link με τα εμποδια και τον κακο ετσι ωστε κανει collide με αυτα ο παικτης να χανει.
 ![sticker](GameOver1.PNG)
 
 ### :pushpin: 3rd step: Δημιούργησα τα γραφικά για το "Main Menu" scene και τα κουμπία του για τα levels και το options (και στο game over το "try again" button)
+![sticker](mainMenu4.PNG)
+
+:small_orange_diamond: Τον ήχο για τα κουμπιά τον βρήκα απο το [Click Sound Effects (Copyright Free)](https://www.youtube.com/watch?v=q8ZLBOFQ2g0)
+
+:small_orange_diamond: Τον ήχο για τους προβολείς [εδω](https://www.youtube.com/watch?v=uP_NV2RNJiU) και για να το κανω να παίζει σε συγκεκριμενες στιγμες και οχι μονο στην αρχη του scene πηρα βοηθεια απο το [Sync sound and Animation in Unity using Animation Event](https://www.youtube.com/watch?v=OZwbg9Jam-Q&t=1s)
+
 ![sticker](Level1.PNG)
 ![sticker](Level2.PNG)
 ![sticker](Options.png)
+
 ![sticker](TryAgain.png)
 
 ### :pushpin: 4th step: Γυρισα πισω στο παιχνιδι και εκανα τα teleport booths
