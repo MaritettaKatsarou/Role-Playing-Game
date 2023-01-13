@@ -77,6 +77,12 @@ Tι θα "πεταει" ο χαρακτήρας στους εχθρούς (με 
 ### :pushpin: 4th step: Γυρισα πισω στο παιχνιδι και εκανα τα teleport booths
 ![sticker](teleport1.PNG)
 
+:small_orange_diamond: [How To Make 2D Teleporters In Unity](https://www.youtube.com/watch?v=0JXVT28KCIg)
+
+### :pushpin: 5th step: Δημιούργησα τα γραφικά για το finish point και το "Mission Accomplished" scene καθως και το κουμπι που σε γυρναει στο main menu και πρόσθεσα και εκει ενα sound το οποιο ειναι η συνεχεια του τραγουδιου του gameplay αλλα με χειροκροτηματα μαζι.
+
+![sticker](finishBox.PNG)
+
 # :speaker: Conclusions
 
 
